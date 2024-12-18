@@ -2,8 +2,8 @@
 The Federal Reserve Economic Data (FRED) API is very useful to fetch different economic data.
 
 First you need to create an account.
-Go to https://fredaccount.stlouisfed.org/
-Click on my account. On the left hand side you will find API. 
+Go to https://fredaccount.stlouisfed.org/ .
+Create an account. Click on my account. On the left hand side you will find API. 
 Click on the +Request API Key and copy the API Key. 
 You can now use this to pull data from the API.
 
